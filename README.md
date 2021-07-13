@@ -1,9 +1,9 @@
 # Project2_RedTeam_BlueTeam
 Pen testing engagement using against vulnerable webserver. Then SOC analysis of attack using ELK stack. 
 
-Network Topology:
+NETWORK TOPOLOGY:
 
-https://github.com/hopkinsc53/Project2_RedTeam_BlueTeam/blob/5dc26a0b6a5caa8ee92ddbe99cdfd29a4401387c/Project2_Topology.png
+![image](https://user-images.githubusercontent.com/77931754/125531356-4172355d-14eb-4358-98f5-5e6820d82dc9.png)
 
 RED TEAM 
 
