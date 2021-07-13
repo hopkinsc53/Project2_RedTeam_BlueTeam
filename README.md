@@ -3,7 +3,7 @@ Pen testing engagement using against vulnerable webserver. Then SOC analysis of 
 
 Network Topology:
 
-Project2_Topology.png
+https://github.com/hopkinsc53/Project2_RedTeam_BlueTeam/blob/5dc26a0b6a5caa8ee92ddbe99cdfd29a4401387c/Project2_Topology.png
 
 RED TEAM 
 
